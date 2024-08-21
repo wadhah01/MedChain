@@ -1,0 +1,26 @@
+[
+    {
+        "hospitalId": "1",
+        "firstName": "flen",
+        "lastName": "ben flen",
+        "speciality": "Neurosurgery"
+    },
+    {
+        "hospitalId": "2",
+        "firstName": "sigmund",
+        "lastName": "freud",
+        "speciality": "psychology"
+    },
+    {
+        "hospitalId": "1",
+        "firstName": "abu bakr",
+        "lastName": "al razi",
+        "speciality": "pneumology"
+    },
+    {
+        "hospitalId": "2",
+        "firstName": "hammadi",
+        "lastName": "jouini",
+        "speciality": "cardiology"
+    }
+]
