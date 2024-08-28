@@ -6,7 +6,7 @@ the project also enables doctors to have more accurate diagnosis during consulta
 
 This app is composed of a private blockchain built on hyperledger fabric's basic test network connected through a gateway peer to a Rest API using node js/express js
 
-This app requires the Hyperledger fabric samples 2.0 to function correctly
+This app requires the Hyperledger fabric samples 2.0 to function 
 you need to follow these steps:
 1-download the prerequisits(jdk,node,golang..)
 2-clone the fabric samples repo
